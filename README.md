@@ -7,13 +7,14 @@ Chatbot Whatsapp can control IoT via API/endpoint
 
 ## Connect To Project
 
-* [`IoT Relay NodeMcu`](https://github.com/TierKun/IoT-Relay)
+* [`Smartbin`](https://github.com/Stalker-moment/Smartbin)
+* [`IoT Relay NodeMcu`](https://github.com/Stalker-moment/IoT-Relay)
 
 
 
 ### other integration
 
-* [`Teleram Bot`](https://github.com/TierKun/Telegram-Bot-IoT)
+* [`Teleram Bot`](https://github.com/Stalker-moment/telebot-bin)
 
 
 
@@ -28,7 +29,7 @@ Chatbot Whatsapp can control IoT via API/endpoint
 
 ```cmd
 
-> git clone https://github.com/TierKun/Whatsaap-Bot-IoT
+> git clone https://github.com/Stalker-moment/Whatsapp-Bin/
 > cd Whatsapp-Bot-IoT
 
 ```
