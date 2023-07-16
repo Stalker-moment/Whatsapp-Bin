@@ -1,0 +1,64 @@
+{
+  "name": "Whatsapp-Bot-IoT",
+  "version": "3.0.0",
+  "description": "Chatbot Whatsapp can control IoT via API/endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tierkun",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.66.3",
+    "@open-wa/wa-decrypt": "^4.0.1",
+    "axios": "^0.19.2",
+    "bent": "^7.3.10",
+    "cheerio": "^1.0.0-rc.10",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "file-type": "^15.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^9.0.1",
+    "got": "^11.7.0",
+    "lolcatjs": "^2.4.0",
+    "moment-timezone": "^0.5.31",
+    "mysql": "^2.18.1",
+    "needle": "^2.5.2",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "node-gtts": "^2.0.2",
+    "performance-now": "^2.1.0",
+    "pm2": "^4.5.0",
+    "puppeteer": "^7.1.0",
+    "request": "^2.88.2",
+    "save-image": "^0.0.3",
+    "sharp": "^0.30.6",
+    "util": "^0.12.5"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^5.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TierKun/Whatsapp-Bot-IoT",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "keywords": [
+    "Whatsapp-Bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/TierKun/Whatsapp-Bot-IoT/issues"
+  },
+  "homepage": "https://github.com/TierKun/Whatsapp-Bot-IoT"
+}

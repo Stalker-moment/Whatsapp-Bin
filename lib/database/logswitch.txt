@@ -1,0 +1,13 @@
+
+--> [2023-07-16 - 12:36:01] Switch Off,  
+--> [2023-07-16 - 12:40:28] Switch On,  
+--> [2023-07-16 - 12:40:28] Switch Off,  Durasi Terakhir Off: 00:00:24
+--> [2023-07-16 - 12:42:27] Switch Off,  
+--> [2023-07-16 - 12:44:31] Switch On,  
+--> [2023-07-16 - 12:44:31] Switch Off,  Durasi Terakhir Off: 00:00:14
+--> [2023-07-16 - 12:44:31] Switch On,  Durasi Terakhir On: 00:08:14
+--> [2023-07-16 - 12:53:39] Switch On,  
+--> [2023-07-16 - 12:54:58] Switch On,  
+--> [2023-07-16 - 12:54:58] Switch Off,  Durasi Terakhir Off: 00:00:04
+--> [2023-07-16 - 12:54:58] Switch On,  Durasi Terakhir On: 00:00:09
+--> [2023-07-16 - 12:54:58] Switch Off,  Durasi Terakhir Off: 00:00:50
